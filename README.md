@@ -124,15 +124,8 @@ The system features a live monitoring interface with:
 | Name | Role |
 |------|------|
 | **Jetra Vyas** | ML Pipeline Development, Hybrid Model Architecture, GUI Application |
-| Subodh Nadkar | Data Preprocessing, Signal Analysis |
-| Vinit Sharma | Model Evaluation, Testing |
-| Ojas Indulkar | Data Collection, Documentation |
 
-**Supervisors**: Prof. Dr. Swati Chandna, Dr. Khulan Sergelen
 
-## References
-
-- Jiang et al. (2025) — Frameworks for real-time data analysis in continuous optical systems
 
 ---
 
